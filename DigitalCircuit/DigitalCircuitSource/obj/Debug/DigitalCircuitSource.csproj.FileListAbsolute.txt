@@ -1,0 +1,26 @@
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitSource.exe.config
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.csprojResolveAssemblyReference.cache
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.Properties.Exceptions.resources
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.MainForm.resources
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.Properties.Resources.resources
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.Properties.CategoryNames.resources
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.csproj.GenerateResource.Cache
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitSource.exe
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitSource.pdb
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitLib.dll
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitLib.pdb
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.exe
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.pdb
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitSource.exe.config
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.exe
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.pdb
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitSource.exe
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitSource.pdb
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitLib.dll
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\bin\Debug\DigitalCircuitLib.pdb
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.csprojResolveAssemblyReference.cache
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.Properties.Exceptions.resources
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.MainForm.resources
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.Properties.Resources.resources
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.Properties.CategoryNames.resources
+C:\Users\KokoHadzhiev\Desktop\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitSource\obj\Debug\DigitalCircuitSource.csproj.GenerateResource.Cache

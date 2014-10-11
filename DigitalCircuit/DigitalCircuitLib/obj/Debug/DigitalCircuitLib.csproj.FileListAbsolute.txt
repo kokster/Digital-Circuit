@@ -1,0 +1,5 @@
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitLib\bin\Debug\DigitalCircuitLib.dll
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitLib\bin\Debug\DigitalCircuitLib.pdb
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitLib\obj\Debug\DigitalCircuitLib.csprojResolveAssemblyReference.cache
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitLib\obj\Debug\DigitalCircuitLib.dll
+D:\Fontys\Year 2\PCS5\DigitalCircuit\DigitalCircuit\DigitalCircuit\DigitalCircuitLib\obj\Debug\DigitalCircuitLib.pdb

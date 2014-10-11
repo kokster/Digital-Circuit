@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="ProjectPath = ..\DigitalCircuitLib\DigitalCircuitLib.csproj" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2013-09-26T15:19:39" Importance="Medium" Text="DigitalCircuit's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'DigitalCircuit::Form' -  (Class), 'DigitalCircuit::CircuitManager' -  (Class), 'DigitalCircuit::Viewport' -  (Class), 'DigitalCircuit::Circuit' -  (Class), 'DigitalCircuit::Action' -  (Class), 'DigitalCircuit::Step' -  (Class), 'DigitalCircuit::Item' -  (Class), 'DigitalCircuit::Connection' -  (Class), 'DigitalCircuit::Port' -  (Class), 'DigitalCircuit::AndGate' -  (Class), 'DigitalCircuit::OrGate' -  (Class), 'DigitalCircuit::NotGate' -  (Class), 'DigitalCircuit::Source' -  (Class), 'DigitalCircuit::Sink' -  (Class) " />
+  <Message Timestamp="2013-09-26T15:19:48" Importance="Medium" Text="Project Added: C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\DigitalCircuitLib.csproj" />
+  <Message Timestamp="2013-09-26T15:19:48" Importance="Medium" Text="'DigitalCircuit::Form' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Form.cs" />
+  <Message Timestamp="2013-09-26T15:19:49" Importance="Medium" Text="'DigitalCircuit::CircuitManager' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\CircuitManager.cs" />
+  <Message Timestamp="2013-09-26T15:19:49" Importance="Medium" Text="'DigitalCircuit::Viewport' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Viewport.cs" />
+  <Message Timestamp="2013-09-26T15:19:49" Importance="Medium" Text="'DigitalCircuit::Circuit' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Circuit.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::Action' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Action.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::Step' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Step.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::Item' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Item.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::Connection' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Connection.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::Port' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Port.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::AndGate' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\AndGate.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::OrGate' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\OrGate.cs" />
+  <Message Timestamp="2013-09-26T15:19:50" Importance="Medium" Text="'DigitalCircuit::NotGate' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\NotGate.cs" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Medium" Text="'DigitalCircuit::Source' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Source.cs" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Medium" Text="'DigitalCircuit::Sink' -  (Class) : success (file created) - C:\Users\Luc\Dropbox\PCS5 best project ever\PCS5\DigitalCircuit\DigitalCircuitLib\GeneratedCode\Sink.cs" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="ProjectPath = ..\DigitalCircuitLib\DigitalCircuitLib.csproj" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Medium" Text="DigitalCircuit's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'DigitalCircuit::Form' -  (Class), 'DigitalCircuit::CircuitManager' -  (Class), 'DigitalCircuit::Viewport' -  (Class), 'DigitalCircuit::Circuit' -  (Class), 'DigitalCircuit::Action' -  (Class), 'DigitalCircuit::Step' -  (Class), 'DigitalCircuit::Item' -  (Class), 'DigitalCircuit::Connection' -  (Class), 'DigitalCircuit::Port' -  (Class), 'DigitalCircuit::AndGate' -  (Class), 'DigitalCircuit::OrGate' -  (Class), 'DigitalCircuit::NotGate' -  (Class), 'DigitalCircuit::Source' -  (Class), 'DigitalCircuit::Sink' -  (Class) " />
+  <Message Timestamp="2013-09-26T15:19:51" Importance="Diagnostic" Text="'DigitalCircuit::Form' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::CircuitManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Viewport' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Circuit' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Action' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Step' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Item' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Connection' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Port' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::AndGate' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::OrGate' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::NotGate' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Source' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:52" Importance="Diagnostic" Text="'DigitalCircuit::Sink' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="The selection included 17 elements which were not bound to a template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'DigitalCircuit::' -  (Association): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'c266fef8-191d-4777-8fb2-a966ac42f739' -  (Generalization): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'6cf875dd-2b3a-48ed-8ccc-75e7f477be14' -  (Generalization): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'96039760-d020-482d-9922-233ec8a242b0' -  (Generalization): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'a51f6aff-60ae-4d33-af72-ac3949128f23' -  (Generalization): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="Diagnostic" Text="'8152e796-140e-4342-ab01-13f9ed3463b5' -  (Generalization): no bound template." />
+  <Message Timestamp="2013-09-26T15:19:53" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

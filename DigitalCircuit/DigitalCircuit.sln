@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "DigitalCircuit", "DigitalCircuit\DigitalCircuit.modelproj", "{E422F877-2395-492C-9497-209EEC5C79EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCircuitSource", "DigitalCircuitSource\DigitalCircuitSource.csproj", "{52DC7310-D7A1-4B98-8331-2D1B2912992C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalCircuitLib", "DigitalCircuitLib\DigitalCircuitLib.csproj", "{CA8F0038-6C57-411E-B986-AC204896ED57}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://projectpcs.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DigitalCircuit\\DigitalCircuit.modelproj
+		SccProjectName1 = DigitalCircuit
+		SccLocalPath1 = DigitalCircuit
+		SccProjectUniqueName2 = DigitalCircuitLib\\DigitalCircuitLib.csproj
+		SccProjectName2 = DigitalCircuitLib
+		SccLocalPath2 = DigitalCircuitLib
+		SccProjectUniqueName3 = DigitalCircuitSource\\DigitalCircuitSource.csproj
+		SccProjectName3 = DigitalCircuitSource
+		SccLocalPath3 = DigitalCircuitSource
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E422F877-2395-492C-9497-209EEC5C79EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E422F877-2395-492C-9497-209EEC5C79EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E422F877-2395-492C-9497-209EEC5C79EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E422F877-2395-492C-9497-209EEC5C79EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DC7310-D7A1-4B98-8331-2D1B2912992C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DC7310-D7A1-4B98-8331-2D1B2912992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DC7310-D7A1-4B98-8331-2D1B2912992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DC7310-D7A1-4B98-8331-2D1B2912992C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8F0038-6C57-411E-B986-AC204896ED57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8F0038-6C57-411E-B986-AC204896ED57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8F0038-6C57-411E-B986-AC204896ED57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8F0038-6C57-411E-B986-AC204896ED57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
